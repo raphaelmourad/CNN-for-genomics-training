@@ -1,6 +1,6 @@
-# Deep Learning for Genomics Training (Raphael Mourad, Biostatistics platform, INRAe)
+# Training on CNN and basic ML for genomics 
 
-%![plot](https://github.com/benoitballester/inserm-ML-workshop-266/blob/main/header_googlesites.png?raw=true)
+![plot](header_googlesites.png)
 
 
 <!-- TABLE OF CONTENTS -->
