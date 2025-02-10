@@ -4,7 +4,7 @@
 
 ## Overview
 
-The aim of this practical session is to learn machine and deep learning models for regulatory genomics using both R and python. Deep learning models will be programmed with Keras and Tensorflow. Most models we will use can be used for many different problems in biology and in science in general. 
+The aim of this practical session is to learn deep learning models for regulatory genomics. We will use R for data preprocessing and preparation, and Python for deep learning. Deep learning models will be programmed with Keras and Tensorflow. Most models we will use can be used for many different problems in biology and in science in general. 
 We will focus on the prediction of genomic experimental output such as transcription factor ChIP-seq or DNase-seq, using the DNA sequence as input. Once the model is built and trained, we will see how to extract and interpret the model features as DNA motifs. Lastly, we will use our model for predicting the effect of single nucleotide polymorphisms (SNPs) that were previously identified from genetic studies (GWAS, eQTL). 
 
 ## Lab classes
