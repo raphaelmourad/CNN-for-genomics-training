@@ -26,6 +26,6 @@ We will use the trained CNN to predict the impact of known non-coding single nuc
 
 ## Bibliography
 
-In the folder "articles", many deep learning models applied in genomics are saved. I advice you to read at least some of these articles to better understand the deep learning models, the genomic data and the aims of these models. 
+Bibliography is available [here](https://github.com/raphaelmourad/CNN-for-genomics-training/tree/main/articles). I advice you to read at least some of these articles to better understand the deep learning models, the genomic data and the aims of these models. 
 
 
