@@ -25,6 +25,7 @@ We will use the trained CNN to predict the impact of known non-coding single nuc
 
 [Google Colab](https://colab.research.google.com/drive/1WEfVpgzzpWwQ3hBGi4bV6NbuzCP_8dwV#scrollTo=OxW_pnHVv3Aa)
 
+[Video of the tutorial](https://youtu.be/b8zWW1xRdUA)
 
 ## Bibliography
 
