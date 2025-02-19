@@ -15,6 +15,8 @@ We will first preprocess ChIP-seq/DNase-seq (positive) peaks obtained from diffe
 
 [Google Colab](https://colab.research.google.com/drive/1PJU3TFoGGbBtjW5CdcavFTrXL3wLMDGU#scrollTo=jBIs7K1LB4n7)
 
+[Video of the tutorial](https://youtu.be/JkgY-opy1VA)
+
 ### Training convolutional neural network (CNN) and SNP effect prediction
 
 We will first encode the DNA sequences as tensors using one-hot encoding. Then, we will build different deep learning architectures by adding different layers (convolution, dense, dropout, LSTM, ...). We will build a simple convolutional model, a model with parallel convolutional layers, a model with multiple convolutional layers, and a model including an LSTM layer. We will train the model and play with different hyperparameters. We will compare the accuracy on the training and the validation sets. 
