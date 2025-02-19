@@ -1,4 +1,4 @@
-# Training on CNN and basic ML for genomics 
+# Training on CNN for genomics 
 
 ![plot](header_googlesites.png)
 
