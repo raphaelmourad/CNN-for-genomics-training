@@ -9,7 +9,7 @@ We will focus on the prediction of genomic experimental output such as transcrip
 
 ## Lab classes
 
-### Data preprocessing and preparation  
+### Data preprocessing and preparation (optional)
 
 We will first preprocess ChIP-seq/DNase-seq (positive) peaks obtained from different experiments: CTCF, POL2, H3K4me3 and DNase-seq. From the peaks, we will generate random control (negative) peaks with similar length, GC content and repeat distribution. From the peaks, we will extract DNA sequences. 
 
